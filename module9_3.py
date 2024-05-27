@@ -21,7 +21,7 @@ class EvenNumbers:
         return self
         
 start = 7
-end = 16
+end = 26
 my_function_ = EvenNumbers()
 
 print('------------------------------')
